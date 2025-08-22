@@ -1,6 +1,5 @@
-Informativa sulla Privacy – PoweringGuasti / FUORIVOLT
-Titolare del trattamento: [Nome/Ragione sociale], [Indirizzo] – Email: [email]
-Data: [gg/mm/aaaa] – Versione: 1.0
+Informativa sulla Privacy – FUORIVOLT
+ Versione: 1.0
 
 Che cos’è questa app
 L’app mostra su mappa guasti e lavori programmati sulla rete elettrica italiana. Integra servizi di terze parti per mappe e geocoding (OpenStreetMap/Nominatim), calcolo percorso (OSRM, con eventuale fallback Google Maps) e dati pubblici ENEL (ArcGIS FeatureServer). Non richiede registrazione e non utilizza pubblicità o sistemi di profilazione.
